@@ -61,7 +61,7 @@ namespace MyConsoleApp
                 else
                 {
                     result.Add(value, 1);
-                }
+                } 
             }
 
             return result;
